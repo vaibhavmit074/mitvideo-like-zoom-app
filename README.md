@@ -21,4 +21,4 @@
 - Import peerjs library PeerJS simplifies WebRTC peer-to-peer data, video, and audio calls.
 - Install peerjs "npm install peer"
 - npm install bootstrap
-- npm install -g heroku
+- npm install -g herokugit in
